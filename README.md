@@ -2,9 +2,9 @@
 ![Aditya2](https://user-images.githubusercontent.com/49858681/105781488-b453f180-5f98-11eb-9fe5-8afd001658f4.png)
 
 
-- 🔭 I’m currently working on **Puri FastFood**
+- 🔭 I’m currently working on **Ecommerce app**
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Firebase**
 
 - 👯 I’m looking to collaborate on **Flutter**
 
